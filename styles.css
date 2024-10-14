@@ -1,14 +1,11 @@
-.main_p {
-   background-color: rgb(250, 98, 179);
-}
-.cool_class {
-   font-size: 18px;
-}
-#one_ID {
+button {
     font-size: 24px;
-    color: #0000ff;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
 }
-#another_id {
-    background-color: rgb(20, 182, 47);
-    font-weight: 700;
+.yeller {
+   background-color: #000000;
+   color: #ffffff;
+}
+.seconds {
+   background-color: yellow;
 }
