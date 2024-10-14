@@ -1,11 +1,6 @@
-.yeller, .seconds {
-    font-size: 24px;
-    font-family: "Times New Roman", Helvetica, sans-serif;
-}
-.yeller {
-   background-color: #000000;
-   color: #ffffff;
-}
-.seconds {
-   background-color: yellow;
+div p {
+    background-color: yellow;
+    text-align: center;
+    color: red;
+    font-size: 20px;
 }
