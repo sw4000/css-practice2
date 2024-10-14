@@ -1,12 +1,14 @@
-div {
-background-color: red;
-font-size: 32px;
-font-weight: 700;
-text-align: center;
+.main_p {
+   background-color: rgb(250, 98, 179);
 }
-p {
-
+.cool_class {
+   font-size: 18px;
 }
-button {
-
+#one_ID {
+    font-size: 24px;
+    color: #0000ff;
+}
+#another_id {
+    background-color: rgb(20, 182, 47);
+    font-weight: 700;
 }
